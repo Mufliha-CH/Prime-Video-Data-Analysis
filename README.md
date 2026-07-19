@@ -72,7 +72,7 @@ This project presents an interactive Power BI dashboard that analyzes Prime Vide
 **Mufliha CH**
 
 GitHub:
-https://github.com/YourUsername
+https://github.com/Mufliha-CH
 
 LinkedIn:
-https://linkedin.com/in/YourLinkedIn
+LinkedIn: https://www.linkedin.com/in/mufliha-ch/
