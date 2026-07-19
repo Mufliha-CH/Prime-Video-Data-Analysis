@@ -8,7 +8,7 @@ This project presents an interactive Power BI dashboard that analyzes Prime Vide
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Prime-video-Dashboard](dashboard.png)
 
 ---
 
